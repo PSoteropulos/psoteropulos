@@ -16,8 +16,5 @@ I'm Paul Soteropulos, a certified Full Stack Developer with a passion for buildi
 - LinkedIn: [PSoteropulos](https://linkedin.com/psoteropulos)
 - Based in Mandeville, LA.
 
-## GitHub Stats
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psoteropulos&show_icons=true)
-
-## GitHub Contributions
-![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
+## GitHub Stats and Contributions
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psoteropulos&show_icons=true) ![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
