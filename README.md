@@ -6,9 +6,11 @@ I'm Paul Soteropulos, a certified Full Stack Developer with a passion for buildi
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
 - 🏫 Teaching and coding the days away at Coding Dojo's Web Dev bootcamp. It is wild how much you get to ***LEARN*** while teaching.
 - 🤓 Nearly fulfilling my 2023 goal to do at least one algo per day! So close! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice)
+- 😅 *Finally* starting to put together a proper portfolio. Coming soon...
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
 - 🌐 Check out my baby, [moodRING](https://moodring.net)
 - 🔮 Check out [AIsop](https://aisop.io)! This is an early version created by myself and my teammates at Sojourn Creations. V2 coming soon!
+- 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughter.
 
 ## Skills
 - Proficient in **JavaScript**, **Python**, **HTML**, **CSS**, and much more. I equally enjoy frontend and backend, and everything in between!
