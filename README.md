@@ -13,7 +13,7 @@ I'm Paul Soteropulos, a certified Full Stack Developer with a passion for buildi
 - Passionate about learning and applying new technologies in creative ways. I absolutely love React and the power it brings to the table.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/psoteropulos)
+- LinkedIn: [PSoteropulos](https://linkedin.com/psoteropulos)
 - Based in Mandeville, LA.
 
 ## GitHub Stats
