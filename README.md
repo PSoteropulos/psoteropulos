@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Paul Soteropulos, a certified Full Stack Developer with a thirst for building, solving problems, and learning.
+I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.
 
 ## About Me
 - 🌱 Full Stack Developer with a focus on creating fun and meaningful applications.
@@ -13,7 +13,7 @@ I'm Paul Soteropulos, a certified Full Stack Developer with a thirst for buildin
 - Passionate about learning and applying new technologies in creative ways. I absolutely love React and the power it brings to the table.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/psoteropulos)
 - Based in Mandeville, LA.
 
 ## GitHub Stats
