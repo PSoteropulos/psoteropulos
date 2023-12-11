@@ -1,4 +1,4 @@
-# Hello World! ✌
+<h1 align="center">Hello World! ✌</h1>
 
 I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.
 
