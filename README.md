@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! ✌</h1>
 
-I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.
+<h3 align="center">I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.</h3>
 
 ## About Me
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
