@@ -55,6 +55,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
