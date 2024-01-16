@@ -5,8 +5,9 @@
 ## About Me
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
 - 🏫 Teaching and coding the days away at Coding Dojo's Web Dev bootcamp. It is wild how much you get to ***LEARN*** while teaching.
-- 🤓 Nearing fulfillment of my 2023 goal to do at least one algo per day! So close! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice)
-- 😅 *Finally* starting to put together a proper portfolio. Coming soon...
+- 🤓 Recently fulfilled my 2023 goal of doing at least one algo per day! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice)
+- ☕ *Finally* learning Java. Trying to complete an 8 week course in 2 weeks for "reasons". Wish me luck!
+- 😅 *Finally finally* starting to put together a proper portfolio. Coming soon(ish)...
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
 - 🎶 Check out my baby, [moodRING](https://moodring.net)
 - 🔮 Check out [AIsop](https://aisop.io)! This is an early version created by myself and my teammates at Sojourn Creations. V2 coming soon!
@@ -56,6 +57,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square)
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
