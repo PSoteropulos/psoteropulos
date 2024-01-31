@@ -64,9 +64,11 @@
 ![Apache Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat-square)
 ![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-437291?logo=openjdk&logoColor=fff&style=flat-square)
 
+
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
 - Based in Mandeville, LA.
+
 
 ## GitHub Stats and Contributions
 ![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
