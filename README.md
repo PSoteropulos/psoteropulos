@@ -6,7 +6,7 @@
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
 - 🏫 Teaching and coding the days away at Coding Dojo's Web Dev bootcamp. It is wild how much you get to ***LEARN*** while teaching.
 - 🤓 Recently fulfilled my 2023 goal of doing at least one algo per day! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice)
-- ☕ *Finally* learning Java. Trying to complete an 8 week course in 2 weeks for "reasons". Wish me luck!
+- ☕ *Finally* recently learned Java. Then C#. I managed to pack 24 weeks of curriculum content in to 4 weeks. Talk about brain melt!
 - 😅 *Finally finally* starting to put together a proper portfolio. Coming soon(ish)...
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
 - 🎶 Check out my baby, [moodRING](https://moodring.net)
@@ -14,8 +14,8 @@
 - 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughter.
 
 ## Skills
-- Proficient in **JavaScript/TypeScript**, **Python**, **HTML**, **CSS**, and much more. I equally enjoy frontend and backend, and everything in between!
-- Passionate about learning and applying new technologies in creative ways. I absolutely love React and the power it brings to the table.
+- Certified proficiency in **JavaScript/TypeScript**, **Python**, **Java**, **C#**, **HTML**, **CSS**, and much more. I equally enjoy frontend and backend, and everything in between!
+- Passionate about learning and applying new technologies in creative ways. I love solving the puzzles that come with code and associated processes.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
