@@ -5,7 +5,7 @@
 ## About Me
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
 - 🏫 Teaching and coding the days away at Coding Dojo's Web Dev bootcamp. It is wild how much you get to ***LEARN*** while teaching.
-- 🤓 Recently fulfilled my 2023 goal of doing at least one algo per day! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice)
+- 🤓 Recently fulfilled my 2023 goal of doing at least one algo per day! Check it out here [AlgoPractice](https://github.com/psoteropulos/AlgoPractice) and here [Leetcode Profile[(https://leetcode.com/Paulsoteropulos).
 - ☕ *Finally* recently learned Java. Then C#. I managed to pack 24 weeks of curriculum content in to 4 weeks. Talk about brain melt!
 - 😅 *Finally finally* starting to put together a proper portfolio. Coming soon(ish)...
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
