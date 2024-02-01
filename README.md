@@ -77,4 +77,4 @@
 
 ## GitHub Stats and Contributions
 ![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=psoteropulos&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=psoteropulos&theme=dracula&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
