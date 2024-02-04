@@ -11,7 +11,7 @@
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
 - 🎶 Check out my baby, [moodRING](https://moodring.net)
 - 🔮 Check out [AIsop](https://aisop.io)! This is an early version created by myself and my teammates at Sojourn Creations. V2 coming soon!
-- 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughter.
+- 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughters.
 
 ## Skills
 - Certified proficiency in **JavaScript/TypeScript**, **Python**, **Java**, **C#**, **HTML**, **CSS**, and much more. I equally enjoy frontend and backend, and everything in between!
@@ -61,11 +61,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square)
 ![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=flat-square)
-![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat-square)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 
