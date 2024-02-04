@@ -69,11 +69,9 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 
-
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
 - Based in Mandeville, LA.
-
 
 ## GitHub Stats and Contributions
 ![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
