@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! ✌</h1>
-
 <h3 align="center">I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.</h3>
+
 
 ## About Me
 - 🌱 Full Stack Developer with a focus on creating fun, engaging, and meaningful applications.
@@ -12,6 +12,7 @@
 - 🎶 Check out my baby, [moodRING](https://moodring.net)
 - 🔮 Check out [AIsop](https://aisop.io)! This is an early version created by myself and my teammates at Sojourn Creations. V2 coming soon!
 - 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughters.
+
 
 ## Skills
 - Certified proficiency in **JavaScript/TypeScript**, **Python**, **Java**, **C#**, **HTML**, **CSS**, and much more. I equally enjoy frontend and backend, and everything in between!
@@ -69,9 +70,11 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 
+
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
 - Based in Mandeville, LA.
+
 
 ## GitHub Stats and Contributions
 ![Paul's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=psoteropulos&theme=dark&hide_border=true)
