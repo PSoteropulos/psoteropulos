@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! ✌</h1>
-<h3 align="center">I'm Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.</h3>
+<h3 align="center">I am Paul Soteropulos, a certified Full Stack Developer with a passion for building, solving problems, and learning.</h3>
 
 
 ## About Me
@@ -11,7 +11,7 @@
 - 🔭 Working on several projects like [moodRING](https://github.com/psoteropulos/moodRING), [CookBook](https://github.com/psoteropulos/CookBook-Group-Project), AIsop (sorry friends, private repo), and more that are not *quite* ready to share.
 - 🎶 Check out my baby, [moodRING](https://moodring.net)
 - 🔮 Check out [AIsop](https://aisop.io)! This is an early version created by myself and my teammates at Sojourn Creations. V2 coming soon!
-- 😍 When I am not coding or working on things around the house I am likely playing with my incredible daughters.
+- 😍 When I am not coding or working on things around the house I am likely enjoying every little moment with my incredible daughters.
 
 
 ## Skills
