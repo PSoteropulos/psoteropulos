@@ -73,7 +73,7 @@
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/paulsoteropulos)
-- Based in Mandeville, LA.
+- [Portfolio](https://psoteropulos.com) (contains email link)
 
 
 ## GitHub Stats and Contributions
